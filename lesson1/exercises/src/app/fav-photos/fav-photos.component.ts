@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-photos.component.css']
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Photo/Image Section Title Here';
-  image1 = 'https://www.launchcode.org/assets/icons/target-00c7a0bc7776901e3c5cdc4c36c465f19e41a249bc7267a595f0bfa14ab944b7.png';
-  image2 = '';
-  image3 = '';
+  photosTitle = 'Some Climbing Photos! Courtesy of Climbing Magazine';
+  image1 = 'https://www.climbing.com/wp-content/uploads/2018/10/siadak_austin_20170107_01010_gn-web.jpg?width=730';
+  image2 = 'https://www.climbing.com/wp-content/uploads/2018/10/down-under_gn-web.jpg?width=730';
+  image3 = 'https://www.climbing.com/wp-content/uploads/2018/10/bensanfordmedia1-web.jpg?width=730';
 
   constructor() { }
 

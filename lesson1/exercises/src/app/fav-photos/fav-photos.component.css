@@ -3,7 +3,9 @@ h3 {
 }
 
 img {
-
+   width: 300px;
+   height: auto;
+   padding: .5%;
 }
 
 .photos {
